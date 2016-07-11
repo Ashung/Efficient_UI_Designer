@@ -71,38 +71,35 @@
 ### 自动化编程
 
 - [JavaScript for Automation](https://developer.apple.com/library/mac/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/) Mac OS X 10.10 JavaScript 自动化编程
+- [Shell Scripting Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html) by Apple
+- [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
+- [Unix Shell](http://www.tutorialspoint.com/unix/unix-shell.htm)
+- [Advanced Bash-Scripting Guide - An in-depth exploration of the art of shell scripting](http://tldp.org/LDP/abs/html/) by Mendel Cooper
 
 ## 免费素材
 
 ### 图标与图标字体
 
-[Material Design Icons](https://github.com/google/material-design-icons)
-[Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-[Github octicons](https://github.com/github/octicons)
-[ionicons](https://github.com/driftyco/ionicons)
+[Material Design Icons](https://github.com/google/material-design-icons),
+[Font-Awesome](https://github.com/FortAwesome/Font-Awesome),
+[Github octicons](https://github.com/github/octicons),
+[ionicons](https://github.com/driftyco/ionicons),
 [open-iconic](https://github.com/iconic/open-iconic)
 
 ### Emoji
 
-[Noto emoji](https://github.com/googlei18n/noto-emoji)
-[Twemoji](https://github.com/twitter/twemoji)
-[Emoji One](https://github.com/Ranks/emojione)
+[Noto emoji](https://github.com/googlei18n/noto-emoji),
+[Twemoji](https://github.com/twitter/twemoji),
+[Emoji One](https://github.com/Ranks/emojione),
 [Mozilla Emoji](https://github.com/mozilla/fxemoji)
 
 ### 字体
 
-[Google Fonts](https://github.com/google/fonts)
-[Roboto](https://github.com/google/roboto)
-[Noto fonts](https://github.com/googlei18n/noto-fonts)
+[Google Fonts](https://github.com/google/fonts),
+[Noto fonts](https://github.com/googlei18n/noto-fonts),
 [Noto CJK](https://github.com/googlei18n/noto-cjk)
 [Adobe Source Han Sans](https://github.com/adobe-fonts/source-han-sans)
-[Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
-[Adobe Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro)
-[Adobe Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro)
-[Mozilla Fira](https://github.com/mozilla/Fira)
-[Fira at Carrois](https://github.com/carrois/Fira-at-Carrois)
-[FiraCode](https://github.com/tonsky/FiraCode)
 
 ### Image
 
-[SubtlePatterns](https://github.com/subtlepatterns/SubtlePatterns)
+[unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/)

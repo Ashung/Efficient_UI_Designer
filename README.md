@@ -117,23 +117,23 @@
 - [typicons.font](https://github.com/stephenhutchings/typicons.font) (Font, PNG, SVG)
 - [brandico.font](https://github.com/fontello/brandico.font) SNS 图标 (Font, SVG)
 - [zocial.font](https://github.com/fontello/zocial.font)  (Font, SVG)
-- [websymbols-uni.font](https://github.com/fontello/websymbols-uni.font)
-- [modernpics.font](https://github.com/fontello/modernpics.font)
-- [mfglabs.font](https://github.com/fontello/mfglabs.font)
+- [websymbols-uni.font](https://github.com/fontello/websymbols-uni.font)  (Font, SVG)
+- [modernpics.font](https://github.com/fontello/modernpics.font)  (Font, SVG)
+- [mfglabs.font](https://github.com/fontello/mfglabs.font)  (Font, SVG)
 
 ### Emoji
 
-[Noto emoji](https://github.com/googlei18n/noto-emoji),
-[Twemoji](https://github.com/twitter/twemoji),
-[Emoji One](https://github.com/Ranks/emojione),
-[Mozilla Emoji](https://github.com/mozilla/fxemoji)
+- [Noto emoji](https://github.com/googlei18n/noto-emoji) (Font, SVG, PNG 128px)
+- [Twemoji](https://github.com/twitter/twemoji) (Ai, SVG, PNG 16,36,72px)
+- [Emoji One](https://github.com/Ranks/emojione) (Font, SVG, PNG 64,128,512px)
+- [Mozilla Emoji](https://github.com/mozilla/fxemoji) (Font, SVG)
 
 ### 字体
 
 [Google Fonts](https://github.com/google/fonts),
 [Noto fonts](https://github.com/googlei18n/noto-fonts),
 [Noto CJK](https://github.com/googlei18n/noto-cjk),
-[Adobe Source Han Sans](https://github.com/adobe-fonts/source-han-sans),
+[Adobe Source Han Sans 思源黑体](https://github.com/adobe-fonts/source-han-sans),
 [Source Code Pro](https://github.com/adobe-fonts/source-code-pro),
 [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro),
 [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro),

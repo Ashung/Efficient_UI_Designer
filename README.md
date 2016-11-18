@@ -4,14 +4,16 @@
 
 ## 团队
 
-### 先进的工作方式
+### 工作方式
 
-以下都是 Web 应用程序，如果团队或公司内部没有 Linux 服务器管理相关的技术人员，可以直接从 [Bitnami](https://bitnami.com/) 下载已配置好的虚拟机镜像或 Docker 镜像用于内部使用。
+免费开源 Web 应用程序。
 
-- [GitLab Community Edition](https://about.gitlab.com/downloads/) Git 服务器端 Web 程序，GitHub 的公司内部替代品，有丰富 API。
+如果团队或公司内部没有 Linux 服务器管理相关的技术人员，可以直接从 [Bitnami](https://bitnami.com/) 下载已配置好的虚拟机镜像或 Docker 镜像用于内部使用。
+
+- [GitLab Community Edition](https://about.gitlab.com/downloads/) Git 服务器端 Web 程序，GitHub 的替代品，有丰富 API，可扩展性强。
 - [Gogs](https://gogs.io/) 国产 Git 服务器端 Web 程序，安装简单，多语言界面，跨平台。当团队或公司中没有技术支持时，这个程序是不错的选择。
-- [Owncloud](https://owncloud.org/)  服务器端的网盘程序。
-- [Rocket Chat](https://rocket.chat/) Slack 的替代品。
+- [Owncloud](https://owncloud.org/)  网盘程序。
+- [Rocket Chat](https://rocket.chat/) Slack 的开源替代品。超越各种内部X信，XX通，大公司套路深...
 
 ### 协作和共享
 
@@ -20,16 +22,10 @@
 
 ### 知识共享
 
-生成网页形式的文档，适用于内部设计规范，技术文档等等。需要基础命令行操作知识，网站部署知识，以及熟悉 Markdown 语法。
+静态站点生成器，生成网页形式的文档，适用于内部设计规范，技术文档等等。需要基础命令行操作知识，网站部署知识，以及熟悉 Markdown 语法。
 
 - [Jekyll](http://jekyllrb.com/) Github 使用的静态网站生成程序。
 - [GitBook](https://github.com/GitbookIO) 文档类静态网站生成程序。
-- [Fabricator](http://fbrctr.github.io/) Web 风格规范生成程序。
-
-### 开发相关
-
-- [Dash](https://kapeli.com/dash) 编程语言参考文档。 (M)
-- [Zeal](https://zealdocs.org/) 编程语言参考文档。 (W)
 
 ## 设计师工具
 
@@ -41,6 +37,11 @@
 - [imagemin](https://github.com/imagemin/imagemin-app) 图像压缩 (M W L)
 - [XnConvert](http://www.xnview.com/en/xnconvert/) 图像格式转换 (M W L)
 - [HandBrake](https://handbrake.fr/) 视频转码 (M W L)
+
+### 开发相关
+
+- [Atom](https://atom.io/) 编辑器
+- [Dash](https://kapeli.com/dash)  (M), [Zeal](https://zealdocs.org/) (W) 编程语言参考文档。 
 
 ### 命令行工具
 
@@ -55,19 +56,18 @@
 - [SVGO](https://github.com/svg/svgo) SVG 优化工具 (Node.js)
 - [CairoSVG](http://cairosvg.org/) SVG 转 PNG, PDF, PostScript 工具 (Python)
 - [ImageMagick](http://www.imagemagick.org/), [GraphicsMagick](http://www.graphicsmagick.org/)  图片处理与格式转换
-- [AutoTrace](http://autotrace.sourceforge.net/) 位图转矢量
-- [Potrace](http://potrace.sourceforge.net) 位图转矢量, 仅支持单色
+- [AutoTrace](http://autotrace.sourceforge.net/) 位图转矢量, [Potrace](http://potrace.sourceforge.net) 位图转矢量, 仅支持单色
 
 ### 包、模块
 
-以下为带有某种功能的代码，需要有特定语言的基础才能用其来完成特定操作，开发语言备注在说明后的括号内。
+带有某种功能的代码，需要有特定语言的基础才能用其来完成特定操作，开发语言备注在说明后的括号内。
 
 - [gulp](http://gulpjs.com/) 自动构建工具 (Node.js)
 - [grunt](http://gruntjs.com/) 自动构建工具 (Node.js)
 - [imagetracerjs](https://github.com/jankovicsandras/imagetracerjs) 位图转矢量 (Node.js)
 - [SVG font dumper](https://github.com/fontello/svg-font-dump) SVG 字体转为多个 SVG 图片 (Node.js)
 
-## 界面设计软件编程与自动化
+## 界面设计软件自动化编程
 
 ### Adobe 软件脚本编程
 
@@ -85,7 +85,9 @@
 - [Sketch Headers](https://github.com/abynim/Sketch-Headers) Headers from Sketch app exported using class-dump
 - [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)  官方插件目录, 收集各种托管在 GitHub 的开源 Sketch 插件
 
-### MacOS JavaScript for Automation
+## 系统自动化编程
+
+### macOS JavaScript for Automation
 
 - [JavaScript for Automation](https://developer.apple.com/library/mac/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/) Mac OS X 10.10 JavaScript 自动化编程
 - [JXA Cookbook](https://github.com/dtinth/JXA-Cookbook)

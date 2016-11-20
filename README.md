@@ -1,19 +1,23 @@
-# 高效界面设计之道
-
-括号内的 M 表示改软件可在 macOS 上运行, W 表示 Windows, 而 L 表示 Linux.
+# 界面设计修行之道
 
 ## 团队
 
 ### 工作方式
 
-免费开源 Web 应用程序。
-
-如果团队或公司内部没有 Linux 服务器管理相关的技术人员，可以直接从 [Bitnami](https://bitnami.com/) 下载已配置好的虚拟机镜像或 Docker 镜像用于内部使用。
+免费开源 Web 应用程序。安装与配置请咨询有 Linux 服务器管理经验的技术人员，内部使用可以直接从 [Bitnami](https://bitnami.com/) 下载已配置好的虚拟机镜像或 Docker 镜像。
 
 - [GitLab Community Edition](https://about.gitlab.com/downloads/) Git 服务器端 Web 程序，GitHub 的替代品，有丰富 API，可扩展性强。
 - [Gogs](https://gogs.io/) 国产 Git 服务器端 Web 程序，安装简单，多语言界面，跨平台。当团队或公司中没有技术支持时，这个程序是不错的选择。
 - [Owncloud](https://owncloud.org/)  网盘程序。
-- [Rocket Chat](https://rocket.chat/) Slack 的开源替代品。超越各种内部X信，XX通，大公司套路深...
+- [Rocket Chat](https://rocket.chat/) Slack 的开源替代品。超越各种内部某信，某某通，大公司套路深...
+
+不差钱的设计团队可以考虑以下服务。
+
+- [InVison]
+- [GitHub]
+- [Zaplin]
+- [Slack]
+- ​
 
 ### 协作和共享
 
@@ -87,17 +91,17 @@
 
 ## 系统自动化编程
 
-### macOS JavaScript for Automation
-
-- [JavaScript for Automation](https://developer.apple.com/library/mac/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/) Mac OS X 10.10 JavaScript 自动化编程
-- [JXA Cookbook](https://github.com/dtinth/JXA-Cookbook)
-
 ### Shell 编程
 
 - [Shell Scripting Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html) by Apple
 - [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
 - [Unix Shell](http://www.tutorialspoint.com/unix/unix-shell.htm)
 - [Advanced Bash-Scripting Guide - An in-depth exploration of the art of shell scripting](http://tldp.org/LDP/abs/html/) by Mendel Cooper
+
+### macOS JavaScript for Automation
+
+- [JavaScript for Automation](https://developer.apple.com/library/mac/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/) Mac OS X 10.10 JavaScript 自动化编程
+- [JXA Cookbook](https://github.com/dtinth/JXA-Cookbook)
 
 ## 免费素材
 
@@ -130,7 +134,7 @@
 - [Emoji One](https://github.com/Ranks/emojione) (Font, SVG, PNG 64,128,512px)
 - [Mozilla Emoji](https://github.com/mozilla/fxemoji) (Font, SVG)
 
-### 字体
+### 免费／开源字体
 
 [Google Fonts](https://github.com/google/fonts),
 [Noto fonts](https://github.com/googlei18n/noto-fonts),
@@ -142,6 +146,10 @@
 [Fira](https://github.com/mozilla/Fira),
 [FiraCode](https://github.com/tonsky/FiraCode)
 
-### 免费版权高清图片
+### 免费无版权高清图片
 
 [unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/)
+
+
+
+> 括号内的 M 表示改软件可在 macOS 上运行, W 表示 Windows, 而 L 表示 Linux.

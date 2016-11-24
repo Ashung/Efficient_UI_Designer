@@ -1,4 +1,4 @@
-# 界面设计修行之道
+# 界面设计师修行之道
 
 ## 团队
 
@@ -6,18 +6,10 @@
 
 免费开源 Web 应用程序。安装与配置请咨询有 Linux 服务器管理经验的技术人员，内部使用可以直接从 [Bitnami](https://bitnami.com/) 下载已配置好的虚拟机镜像或 Docker 镜像。
 
-- [GitLab Community Edition](https://about.gitlab.com/downloads/) Git 服务器端 Web 程序，GitHub 的替代品，有丰富 API，可扩展性强。
+- [GitLab Community Edition](https://about.gitlab.com/downloads/) Git 服务器端 Web 程序，GitHub 的替代品，有丰富 API，可扩展性强。[Docker GitLab](https://github.com/sameersbn/docker-gitlab)
 - [Gogs](https://gogs.io/) 国产 Git 服务器端 Web 程序，安装简单，多语言界面，跨平台。当团队或公司中没有技术支持时，这个程序是不错的选择。
 - [Owncloud](https://owncloud.org/)  网盘程序。
 - [Rocket Chat](https://rocket.chat/) Slack 的开源替代品。超越各种内部某信，某某通，大公司套路深...
-
-不差钱的设计团队可以考虑以下服务。
-
-- [InVison]
-- [GitHub]
-- [Zaplin]
-- [Slack]
-- ​
 
 ### 协作和共享
 
@@ -26,21 +18,29 @@
 
 ### 知识共享
 
-静态站点生成器，生成网页形式的文档，适用于内部设计规范，技术文档等等。需要基础命令行操作知识，网站部署知识，以及熟悉 Markdown 语法。
+生成网页形式的文档，适用于内部设计规范，技术文档等等。需要基础命令行操作知识，网站部署知识，以及熟悉 Markdown 语法。
 
-- [Jekyll](http://jekyllrb.com/) Github 使用的静态网站生成程序。
+#### 静态站点生成器
+
+- [Jekyll](http://jekyllrb.com/) Github Pages 所使用的静态网站生成程序。
 - [GitBook](https://github.com/GitbookIO) 文档类静态网站生成程序。
+
+#### Flat-file CMS
+
+- [Raneto](http://raneto.com/)
 
 ## 设计师工具
 
+### 效率
+
+- Iconjar 图标及图标字体管理软件。
+
 ### 图像压缩与格式转换
 
-- [ImageOptim](https://imageoptim.com/) 图像压缩 (M)
-- [ImageAlpha](https://pngmini.com/) 有损 PNG 压缩 (M)
-- [Pngyu](http://nukesaq88.github.io/Pngyu/) 有损 PNG 压缩  (M)
-- [imagemin](https://github.com/imagemin/imagemin-app) 图像压缩 (M W L)
+- [ImageOptim](https://imageoptim.com/) 图像压缩 (M)，[imagemin](https://github.com/imagemin/imagemin-app) (M W L)
+- [ImageAlpha](https://pngmini.com/) 、[Pngyu](http://nukesaq88.github.io/Pngyu/) 有损 PNG 压缩 (M)
 - [XnConvert](http://www.xnview.com/en/xnconvert/) 图像格式转换 (M W L)
-- [HandBrake](https://handbrake.fr/) 视频转码 (M W L)
+- [HandBrake](https://handbrake.fr/) 视频转码、视频压缩 (M W L)
 
 ### 开发相关
 
@@ -49,9 +49,9 @@
 
 ### 命令行工具
 
-部分命令行工具依赖某种语言环境，这些语言都有各自的包管理工具，例如基于 Node.js 开发的命令行工具，通常可以通过 `npm install <package>` 安装；基于 Python 开发的命令行工具，通常可以通过 `pip install <package>` 安装；基于 Ruby 开发的命令行工具，通常可以通过 `gem install <package>` 安装。这三种语言都是跨平台的，Mac OS X 上系统默认自带 Python 与 Ruby 开发环境，Windows 下可以使用 EXE 安装文件。
+大部分命令行工具，在 macOS 上可以通过 [Homebrew](http://brew.sh/) 或 [MacPorts](https://www.macports.org/) 安装。
 
-其它二进制包形式的命令行工具，Mac OS X 上可以通过 [Homebrew](http://brew.sh/) 或 [MacPorts](https://www.macports.org/) 安装。
+部分命令行工具依赖某种语言环境，这些语言都有各自的包管理工具，例如基于 Node.js 开发的命令行工具，通常可以通过 `npm install <package>` 安装；基于 Python 开发的命令行工具，通常可以通过 `pip install <package>` 安装；基于 Ruby 开发的命令行工具，通常可以通过 `gem install <package>` 安装。这三种语言都是跨平台的，macOS 上系统默认自带 Python 与 Ruby 开发环境，Windows 下可以使用 EXE 安装文件。
 
 - [PNGOUT](http://advsys.net/ken/utils.htm), [PNGCrush](http://pmt.sourceforge.net/pngcrush/), [OptiPNG](http://optipng.sourceforge.net/) 无损 PNG 压缩
 - [pngquant](https://pngquant.org/) 有损 PNG 压缩
@@ -64,7 +64,7 @@
 
 ### 包、模块
 
-带有某种功能的代码，需要有特定语言的基础才能用其来完成特定操作，开发语言备注在说明后的括号内。
+带有某种功能的代码或库，需要有特定语言的基础才能用其来完成特定操作，所使用语言备注在括号内。
 
 - [gulp](http://gulpjs.com/) 自动构建工具 (Node.js)
 - [grunt](http://gruntjs.com/) 自动构建工具 (Node.js)
@@ -85,9 +85,8 @@
 ### Sketch 插件开发
 
 - [Sketch Developer](http://developer.sketchapp.com/)  官方插件开发文档
-- [SketchAPI](https://github.com/BohemianCoding/SketchAPI) Javascript API for working with Sketch
-- [Sketch Headers](https://github.com/abynim/Sketch-Headers) Headers from Sketch app exported using class-dump
 - [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)  官方插件目录, 收集各种托管在 GitHub 的开源 Sketch 插件
+- [Sketch Headers](https://github.com/abynim/Sketch-Headers) Headers from Sketch app exported using class-dump
 
 ## 系统自动化编程
 

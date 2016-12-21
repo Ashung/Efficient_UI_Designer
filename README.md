@@ -6,10 +6,10 @@
 
 免费开源 Web 应用程序。安装与配置请咨询有 Linux 服务器管理经验的技术人员，内部使用可以直接从 [Bitnami](https://bitnami.com/) 下载已配置好的虚拟机镜像或 Docker 镜像。
 
-- [GitLab Community Edition](https://about.gitlab.com/downloads/) Git 服务器端 Web 程序，GitHub 的替代品，有丰富 API，可扩展性强。[Docker GitLab](https://github.com/sameersbn/docker-gitlab)
-- [Gogs](https://gogs.io/) 国产 Git 服务器端 Web 程序，安装简单，多语言界面，跨平台。当团队或公司中没有技术支持时，这个程序是不错的选择。
-- [Owncloud](https://owncloud.org/)  网盘程序。
-- [Rocket Chat](https://rocket.chat/) Slack 的开源替代品。超越各种内部某信，某某通，大公司套路深...
+- [GitLab Community Edition](https://about.gitlab.com/downloads/) (Linux, Ruby)Git 服务器端 Web 程序，GitHub 的替代品，有丰富 API，可扩展性强。[Docker GitLab](https://github.com/sameersbn/docker-gitlab)
+- [Gogs](https://gogs.io/) (全平台) 国产 Git 服务器端 Web 程序，安装简单，多语言界面，跨平台。当团队或公司中没有技术支持时，这个程序是不错的选择。
+- [Owncloud](https://owncloud.org/) (PHP + MySQL) 网盘程序。
+- [Rocket Chat](https://rocket.chat/), [Mattermost](http://www.mattermost.org/) (Node.js) Slack 的开源替代品。超越各种内部某信，某某通，大公司套路深...
 
 ### 协作和共享
 
@@ -33,7 +33,8 @@
 
 ### 效率
 
-- Iconjar 图标及图标字体管理软件。
+- [Iconjar](http://geticonjar.com/) 图标及图标字体管理软件。(M)
+- [svgsus](http://www.svgs.us/) SVG 文件管理程序。(M)
 
 ### 图像压缩与格式转换
 
@@ -66,8 +67,7 @@
 
 带有某种功能的代码或库，需要有特定语言的基础才能用其来完成特定操作，所使用语言备注在括号内。
 
-- [gulp](http://gulpjs.com/) 自动构建工具 (Node.js)
-- [grunt](http://gruntjs.com/) 自动构建工具 (Node.js)
+- [gulp](http://gulpjs.com/), [grunt](http://gruntjs.com/) 自动构建工具 (Node.js)
 - [imagetracerjs](https://github.com/jankovicsandras/imagetracerjs) 位图转矢量 (Node.js)
 - [SVG font dumper](https://github.com/fontello/svg-font-dump) SVG 字体转为多个 SVG 图片 (Node.js)
 

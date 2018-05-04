@@ -39,7 +39,7 @@
 - [Stride](https://www.stride.com/) 免费用户有存储空间（5G）、应用（10）、信息历史（25k）等限制。
 - [Gitter](https://gitter.im/) 无限制。
 
-### 知识共享
+### 文档、知识共享
 
 静态站点生成器，使用某种编程环境将 Markdown、reStructuredText 等文件生成网页形式的文档，适用于内部设计规范，技术文档等等。样式的可定制比较强，大部分程序在初始化时，并不带任何主题，这类工具需要基础的命令行操作知识，网站部署知识，甚至是一些 HTML、CSS 等知识，其实大部分静态站点生成器都可以从网上找不到不少模版。
 
@@ -58,13 +58,18 @@
 - [Nition](https://www.notion.so/)
 - [Quip](https://quip.com/)
 
-## 设计
+## 设计团队相关
 
 ### Sketch 生态圈
 
-- https://zeplin.io/
-- https://sympli.io/
-- https://avocode.com/
+- **版本控制**
+  - [Abstract](https://www.goabstract.com/)
+  - [Plant](https://projects.plantapp.io/)
+- **Developer Handoff**
+  - [Zeplin](https://zeplin.io/)
+  - [Sympli](https://sympli.io/)
+  - [AvoCode](https://avocode.com/)
+  - [Sketch Measure](https://github.com/utom/sketch-measure)
 
 ------
 
@@ -72,10 +77,11 @@
 
 ### Sketch 插件开发
 
-- [Sketch Developer](http://developer.sketchapp.com/)  官方插件开发文档
+- [Sketch 官方插件开发文档](http://developer.sketchapp.com/)
+- [Sketch API 源码](https://github.com/BohemianCoding/SketchAPI)和[文档](https://developer.sketchapp.com/reference/api/)
 - [Sketch Headers](https://github.com/abynim/Sketch-Headers) Headers from Sketch app exported using class-dump
-- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory) 官方插件目录, 收集各种托管在 GitHub 的开源 Sketch 插件
-- [sketchplugins.com](http://sketchplugins.com/) Sketch 官方开发者论坛
+- [Sketch 官方插件目录](https://sketchapp.com/extensions/plugins/)
+- [Sketch 官方开发者论坛](http://sketchplugins.com/) 
 
 ### Figma API
 
@@ -122,13 +128,13 @@ macOS 系统建议安装 [oh-my-zsh](http://ohmyz.sh/)，Windows 可以使用 [C
 
 ### Node.js
 
-[npm](https://www.npmjs.com/)
+[包管理](https://www.npmjs.com/)
 
 - [gulp](http://gulpjs.com/) 自动构建工具
-- [imagetracerjs](https://github.com/jankovicsandras/imagetracerjs) 位图转矢量
 - [SVGO](https://github.com/svg/svgo) SVG 优化工具
 - [SVG font dumper](https://github.com/fontello/svg-font-dump) SVG 字体转为多个 SVG 图片
 - [node-canvas](https://github.com/Automattic/node-canvas)
+- [Jimp](https://github.com/oliver-moran/jimp) 图像处理
 
 ### Python
 

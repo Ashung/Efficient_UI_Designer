@@ -7,8 +7,7 @@
 以下为可自托管得免费开源 Web 应用程序。安装与配置请咨询有 Linux 服务器管理经验的技术人员，内部可以直接使用已配置好的虚拟机镜像或 Docker 镜像。
 
 - [GitLab Community Edition](https://about.gitlab.com/downloads/) (Linux) Git 服务器端 Web 程序，GitHub 的替代品，功能强大。
-- [Gogs](https://gogs.io/) (全平台) 国产 Git 服务器端 Web 程序，安装简单，多语言界面，跨平台。当团队或公司中没有技术支持时，这个程序是不错的选择。
-- [Gitea](https://gitea.io) Gogs 衍生版。
+- [Gogs](https://gogs.io/) (全平台) 国产 Git 服务器端 Web 程序，安装简单，多语言界面，跨平台。当团队或公司中没有技术支持时，这个程序是不错的选择。[Gitea](https://gitea.io) Gogs 衍生版。
 
 免费和付费在线托管。
 
@@ -25,7 +24,7 @@
 - [Owncloud](https://owncloud.org/) (PHP + MySQL/PostgreSQL)，成员是由管理员添加并分配权限的，可以全局搜索文件，对文件评论和简单的历史版本，可以安装一些插件形式的应用来扩展类似日程、任务、文档等功能。
 - [NextCloud](https://nextcloud.com/) Owncloud 衍生版。
 
-### 即时通讯
+### 沟通工具
 
 以下是自托管的 Slack 的开源替代品，包括 Web、iOS、Android 平台客户端。
 
@@ -89,6 +88,7 @@
 
 ### Adobe 系列软件编程
 
+- [Adobe XD 平台](https://adobexdplatform.com/)插件开发文档
 - Photoshop 脚本编程 [Photoshop Scripting 官方文档](http://www.adobe.com/devnet/photoshop/scripting.html)
 - Illustrator 脚本编程 [Illustrator Scripting 官方文档](http://www.adobe.com/devnet/illustrator/scripting.html)
 - After Effects 脚本编程 [aescripts + aeplugins](https://aescripts.com/), [After Effects Scripting Guide](http://docs.aenhancers.com/)
@@ -135,6 +135,7 @@ macOS 系统建议安装 [oh-my-zsh](http://ohmyz.sh/)，Windows 可以使用 [C
 - [SVG font dumper](https://github.com/fontello/svg-font-dump) SVG 字体转为多个 SVG 图片
 - [node-canvas](https://github.com/Automattic/node-canvas)
 - [Jimp](https://github.com/oliver-moran/jimp) 图像处理
+- [Sharp](https://github.com/lovell/sharp) 图像处理
 
 ### Python
 

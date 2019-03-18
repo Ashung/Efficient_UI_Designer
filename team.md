@@ -11,7 +11,7 @@
 
 免费和付费在线托管。
 
-- [GitHub](https://github.com/) 免费项目的内容是开放的，私密项目需要付费。
+- [GitHub](https://github.com/)。
 - [GitLab](https://gitlab.com/) 免费用户有部分高级功能限制。
 - [BitBucket](https://bitbucket.org/) 免费用户有团队人数限制。
 
@@ -40,7 +40,15 @@
 
 ## 文档、知识共享
 
-静态站点生成器，使用某种编程环境将 Markdown、reStructuredText 等文件生成网页形式的文档，适用于内部设计规范，技术文档等等。样式的可定制比较强，大部分程序在初始化时，并不带任何主题，这类工具需要基础的命令行操作知识，网站部署知识，甚至是一些 HTML、CSS 等知识，其实大部分静态站点生成器都可以从网上找不到不少模版。
+### Headless CMS
+
+- Strapi
+- Netlify CMS
+- Ghost
+
+### 静态站点生成器
+
+使用某种编程环境将 Markdown、reStructuredText 等文件生成网页形式的文档，适用于内部设计规范，技术文档等等。样式的可定制比较强，大部分程序在初始化时，并不带任何主题，这类工具需要基础的命令行操作知识，网站部署知识，甚至是一些 HTML、CSS 等知识，其实大部分静态站点生成器都可以从网上找不到不少模版。
 
 - [Jekyll](http://jekyllrb.com/) (Ruby) Github Pages 所使用的静态网站生成程序。
 - [GitBook](https://github.com/GitbookIO) (Node.js) 文档类静态网站生成程序。
@@ -52,10 +60,17 @@
 - [MDwiki](https://github.com/Dynalon/mdwiki/)
 - [Docsify](https://github.com/QingWei-Li/docsify)
 
-免费和付费在线服务。
 
-- [Nition](https://www.notion.so/)
-- [Quip](https://quip.com/)
+
+
+
+[docz](https://www.docz.site) (React)
+
+### JAMstack
+
+
+
+
 
 ## 设计团队相关
 

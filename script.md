@@ -49,6 +49,33 @@
 - gulp-ttf2woff
 - gulp-ttf2woff2
 
+### PDF 相关
+
+- [PDFKit](http://pdfkit.org/) A JavaScript PDF generation library for Node and the browser.
+
+### 字体相关
+
+- https://github.com/fontello
+- [FontKit](https://github.com/foliojs/fontkit) An advanced font engine for Node and the browser
+- [opentype.js](https://opentype.js.org/) Read and write OpenType fonts using JavaScript.
+- [百度在线 ttf 字体编辑器](https://github.com/ecomfe/fonteditor)
+- [Fontplop](https://github.com/matthewgonzalez/fontplop) Fast, Simple, & Free Open Source Webfont Converter
+
+## Web 端图像
+
+### 2D
+
+- [Paper.js](http://paperjs.org/)
+
+### 数据可视化
+
+### 3D, WebGL
+
+## 其他语言类
+
+- [Adobe Font Development Kit for OpenType (AFDKO)](https://github.com/adobe-type-tools/afdko) (python)
+- [fonttools](https://github.com/fonttools/fonttools)
+
 ## 命令行工具与 Shell 编程
 
 ### 命令行工具

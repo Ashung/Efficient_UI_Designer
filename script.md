@@ -30,24 +30,23 @@
 
 ## Node.js 图像编程
 
-### Node.js  图像相关模块
+### 图像相关模块
 
-- [SVGO](https://github.com/svg/svgo) SVG 优化工具
-- [SVG font dumper](https://github.com/fontello/svg-font-dump) SVG 字体转为多个 SVG 图片
 - [node-canvas](https://github.com/Automattic/node-canvas)
 - [Jimp](https://github.com/oliver-moran/jimp) 图像处理
 - [Sharp](https://github.com/lovell/sharp) 图像处理
 
-### Gulp.js 图像相关插件
+### SVG 相关
 
-- gulp-imagemin
-- gulp-svg-sprite
-- [gulp-iconfont](https://github.com/nfroidure/gulp-iconfont)
-- gulp-svg2ttf
-- gulp-svgicons2svgfont
-- gulp-ttf2eot
-- gulp-ttf2woff
-- gulp-ttf2woff2
+- [SVGO](https://github.com/svg/svgo) SVG 优化工具
+- [SVGSON](https://github.com/elrumordelaluz/svgson) 将 SVG 转为 JavaScript 对象或 JSON
+- [Element to Path](https://github.com/elrumordelaluz/element-to-path) 将 SVG 元素对象转为 Path
+- [Path that SVG](https://github.com/elrumordelaluz/path-that-svg) 将 SVG 代码中非 Path 元素转为 Path
+- [Path Tool](https://github.com/elrumordelaluz/svg-path-tools) 解析、缩放 pathdata
+- [SVGPath](https://www.npmjs.com/package/svgpath)
+- [svg pathdata](https://www.npmjs.com/package/svg-pathdata)
+- [SVG Path Bounds](https://www.npmjs.com/package/svg-path-bounds)
+- [SVG Sprite](https://www.npmjs.com/package/svg-sprite)
 
 ### PDF 相关
 
@@ -60,6 +59,18 @@
 - [opentype.js](https://opentype.js.org/) Read and write OpenType fonts using JavaScript.
 - [百度在线 ttf 字体编辑器](https://github.com/ecomfe/fonteditor)
 - [Fontplop](https://github.com/matthewgonzalez/fontplop) Fast, Simple, & Free Open Source Webfont Converter
+- [SVG font dumper](https://github.com/fontello/svg-font-dump) SVG 字体转为多个 SVG 图片
+
+### Gulp.js 图像相关插件
+
+- gulp-imagemin
+- gulp-svg-sprite
+- [gulp-iconfont](https://github.com/nfroidure/gulp-iconfont)
+- gulp-svg2ttf
+- gulp-svgicons2svgfont
+- gulp-ttf2eot
+- gulp-ttf2woff
+- gulp-ttf2woff2
 
 ## Web 端图像
 

@@ -30,7 +30,7 @@
 
 - [Rocket Chat](https://rocket.chat/) (Node.js)
 - [Mattermost Team Edition](https://about.mattermost.com/download/) (Go)
-- [Gitter](https://gitlab.com/gitlab-org/gitter/) (Node.js)
+- [Gitter](https://gitlab.com/gitlab-org/gitter/webapp) (Node.js)
 
 免费和付费在线服务。
 

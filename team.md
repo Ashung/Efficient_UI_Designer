@@ -38,7 +38,7 @@
 - [Stride](https://www.stride.com/) 免费用户有存储空间（5G）、应用（10）、信息历史（25k）等限制。
 - [Gitter](https://gitter.im/) 无限制。
 
-## 文档、知识共享
+## 文档与知识共享
 
 ### Headless CMS
 
@@ -59,37 +59,45 @@
 
 - [MDwiki](https://github.com/Dynalon/mdwiki/)
 - [Docsify](https://github.com/QingWei-Li/docsify)
+- [Docute](https://docute.org) 内置支持 Vue.js
 
+其他类型。
 
-
-
-
-[docz](https://www.docz.site) (React)
+- [docz](https://www.docz.site) (React)
 
 ### JAMstack
 
+[TODO]
 
+# 设计工具
 
+括号内的 M 表示改软件可在 macOS 上运行, W 表示 Windows, 而 L 表示 Linux.
 
+## 设计
 
-## 设计团队相关
+- Sketch
+- Figma
+- XD
+- Adobe CC
 
-### Sketch 生态圈
-
-#### 版本控制
+## 版本控制
 
 - [Abstract](https://www.goabstract.com/)
 - [Plant](https://projects.plantapp.io/)
 
-#### Developer Handoff
+## Developer Handoff
 
 - [Zeplin](https://zeplin.io/)
 - [Sympli](https://sympli.io/)
 - [AvoCode](https://avocode.com/)
-- [Sketch Measure](https://github.com/utom/sketch-measure)
 
-### Figma 生态圈
+## 图像压缩与格式转换
 
-### Adobe XD 生态圈
+- [ImageOptim](https://imageoptim.com/) (M) 图像无损和有损压缩
+- [XnConvert](http://www.xnview.com/en/xnconvert/) (M W L) 图像格式转换
+- [HandBrake](https://handbrake.fr/) (M W L) 视频转码
 
-### Framer 生态圈
+# 其他工具
+
+- [Dash](https://kapeli.com/dash)  (M)，[Zeal](https://zealdocs.org/) (W) 编程语言参考文档。
+
